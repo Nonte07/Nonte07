@@ -3,7 +3,8 @@
 
 <p>
   <a href=https://open.spotify.com/user/4bio4arq8izb9sba4ly6al54v>
-   <img align="right" src="https://c.tenor.com/YF9Ci2-U6ekAAAAC/love-heart.gif" height="50" width="330">
+ <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
+
   </a>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=F70000&size=30&center=true&vCenter=true&multiline=true&weight=100&height=100&width=220&lines=Isse+Mera%2C;Kya+Faida!;">
   <img align="left" src="https://c.tenor.com/g6ItEk4m2qYAAAAd/puneet-puneet-superstar.gif" width="50">
@@ -12,6 +13,9 @@
 <a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="240" height="auto"></a>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nonte07&label=Profile%20views&color=0e75b6&style=flat" alt="Nonte07" /> </p>
+
+[![Twitter](https://img.shields.io/twitter/follow/AkashElectro?label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/Ravendwyr)
+[![Sponsor](https://img.shields.io/github/sponsors/Electro1212?label=Sponsors&logo=github+sponsors&style=flat-square)](https://github.com/sponsors/Ravendwyr)
 
 
 - 🌱 I’m currently learning **PHP,Laravel,Codignator**
@@ -23,9 +27,4 @@ Connect with me on:
 <br></h2>
 
 
-[![LinkedIn](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)](https://www.linkedin.com/in/jibananda-mahato-445395237) &nbsp;&nbsp;
-[![Instagram](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ig.png#gh-light-mode-only)](https://www.instagram.com/_cloud69x/) &nbsp;&nbsp;
-[![Facebook](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/fb.png#gh-light-mode-only)](https://www.facebook.com/profile.php?id=100075272748593) 
-&nbsp;&nbsp;
- &nbsp;&nbsp;
 
