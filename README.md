@@ -9,5 +9,23 @@
   <img align="left" src="https://c.tenor.com/g6ItEk4m2qYAAAAd/puneet-puneet-superstar.gif" width="50">
 </p>
 <br>
+<a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="240" height="auto"></a>
 <br>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nonte07&label=Profile%20views&color=0e75b6&style=flat" alt="Nonte07" /> </p>
+
+
+- 🌱 I’m currently learning **PHP,Laravel,Codignator**
+
+<h2 align=left>
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="35" width= auto>
+&nbsp;&nbsp;&nbsp;&nbsp;
+Connect with me on:
+<br></h2>
+
+
+[![LinkedIn](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)](https://www.linkedin.com/in/jibananda-mahato-445395237) &nbsp;&nbsp;
+[![Instagram](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ig.png#gh-light-mode-only)](https://www.instagram.com/_cloud69x/) &nbsp;&nbsp;
+[![Facebook](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/fb.png#gh-light-mode-only)](https://www.facebook.com/profile.php?id=100075272748593) 
+&nbsp;&nbsp;
+ &nbsp;&nbsp;
+
