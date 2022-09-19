@@ -6,5 +6,5 @@
    <img align="right" src="https://spotify-diablo.vercel.app/api/spotify" height=auto width="380">
   </a>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=F70000&size=30&center=true&vCenter=true&multiline=true&weight=100&height=100&width=220&lines=Hey+there%2C;I'm+Nonte+!">
-  <img align="left" src="https://c.tenor.com/v3_R7jL2FwwAAAAd/lol-test.gif" width="50">
+  <img align="left" src="https://c.tenor.com/g6ItEk4m2qYAAAAd/puneet-puneet-superstar.gif" width="50">
 </p>
