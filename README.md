@@ -12,7 +12,7 @@
 <br>
 <a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="240" height="auto"></a>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nonte07&label=Profile%20views&color=0e75b6&style=flat" alt="Nonte07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibanandamht&label=Profile%20views&color=0e75b6&style=flat" alt="jibanandamht" /> </p>
 
 [![Twitter](https://img.shields.io/twitter/follow/AkashElectro?label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/Ravendwyr)
 [![Sponsor](https://img.shields.io/github/sponsors/Electro1212?label=Sponsors&logo=github+sponsors&style=flat-square)](https://github.com/sponsors/Ravendwyr)
